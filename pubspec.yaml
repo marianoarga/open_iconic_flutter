@@ -4,6 +4,9 @@ author: Brian Egan <brian@brianegan.com>
 homepage: https://github.com/brianegan/open_iconic_flutter
 version: 0.2.0
 
+environment:
+  sdk: ">=1.8.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
